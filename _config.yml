@@ -1,7 +1,6 @@
 name: xxSydCharlie
 description: Template for a video blog.
 url: 'https://jekyll-video.com'
-baseurl: '/'
 email: jekyll-video@example.com
 twitter: https://twitter.com/jekyll-video
 youtube: https://www.youtube.com/jekyll-video
