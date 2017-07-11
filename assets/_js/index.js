@@ -16,7 +16,7 @@ $.ajax({
 	dataType:'jsonp',
 	success: function(data){
 		console.log(data);
-		show_my_videos(data);
+		//show_my_videos(data);
 		//If you want to see in console...
 		// console.log(data);
         // console.log(data.data.items);
