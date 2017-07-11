@@ -1,10 +1,7 @@
 name: xxSydCharlie
-description: Template for a video blog.
-url: 'https://jekyll-video.com'
-email: jekyll-video@example.com
-twitter: https://twitter.com/jekyll-video
-youtube: https://www.youtube.com/jekyll-video
-facebook: https://www.facebook.com/jekyll-video
+description: Website for xxSydCharlie
+url: 'http://xxsydcharlie.com'
+youtube: https://www.youtube.com/xxsydcharlie
 google_analytics: 'UA-00000000-1'
 
 ################################################################
