@@ -17,7 +17,7 @@ permalink: /
 </header>
 <ul class='videos'>
   {% assign videos = site.videos | reverse %}
-  {% for video in videos | limit: 3 %}
+  {% for video in videos | limit: 6 %}
   <li>
     <a href='https://www.youtube.com/watch?v={{ video.youtube_id }}'>
       <h3>{{ video.title }}</h3>
